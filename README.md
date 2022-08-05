@@ -1,3 +1,7 @@
+
+
+https://img.shields.io/static/v1?label=Knotters&message=Project&color=1657ce&link=https://knotters.org&style=for-the-badge
+
 <center><h1>Mafia Giveaway Bot</h1></center>                                         
 
 An advance telegram giveaway bot based on pyrogram with mongo database.powered by mafia.
